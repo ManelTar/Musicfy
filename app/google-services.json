@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941685249948",
+    "project_id": "musicfy-dfb48",
+    "storage_bucket": "musicfy-dfb48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941685249948:android:1d1644c5414de5f41a1a59",
+        "android_client_info": {
+          "package_name": "com.pdsll.musicfy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDODCdGb4gNCQX82WLeYbLmmF9IJhPiPs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

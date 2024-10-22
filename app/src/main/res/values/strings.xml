@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musicfy</string>
+    <string name="inicio">Inicio</string>
+    <string name="busca">Busca</string>
+    <string name="fav">Fav</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="perfil">Perfil</string>
+    <string name="feed">Feed</string>
+</resources>
