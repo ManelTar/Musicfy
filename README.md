@@ -1,5 +1,5 @@
-# Musicfy
-<img align='right' src="https://media.giphy.com/media/GxjAPS9RE0zqyFsBxN/giphy.gif" width="180">
+# Musicfy <img src="https://media.giphy.com/media/GxjAPS9RE0zqyFsBxN/giphy.gif" width="60">
+
 
 [Español](#es) | [English](#en)
 
