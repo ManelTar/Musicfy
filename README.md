@@ -42,6 +42,8 @@ Musicfy cuenta con características similares a las de una red social, como pued
 #### Personalización:
 Por último, tiene una capa de personalización que busca hacer que el usuario se sienta cómodo usando la aplicación y quiera recomendarla, permitiendole elegir una foto de perfil o cambiar el tema de toda la aplicación.
 
+<img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241022_211530_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202407_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202413_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202419_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202436_Musicfy.jpg" width="180"> 
+
 ### Futuras evoluciones
 
 Como futuras características me gustaría añadir una función de amigos, poder agregar y buscar usuarios y ver sus álbumes favoritos y comentarios.
@@ -84,6 +86,8 @@ Musicfy includes social network-like features such as a favorites section, comme
 
 #### Personalization: 
 Users can customize their experience by selecting a profile picture and changing the app's theme to match their preferences.
+
+<img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241022_211530_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202407_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202413_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202419_Musicfy.jpg" width="180"> <img align='center' src="https://github.com/ManelTar/Musicfy/blob/Readme-img/Screenshot_20241027_202436_Musicfy.jpg" width="180"> 
 
 ### Future Enhancements
 Looking ahead, I plan to add new features such as a friend system where users can add and search for others, view their favorite albums, and read their comments.
